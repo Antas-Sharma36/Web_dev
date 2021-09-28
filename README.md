@@ -1,1 +1,1 @@
-Run the HTML file.   
+Run the HTML file
